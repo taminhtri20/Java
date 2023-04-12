@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb9620dd-eacf-4fa0-b350-45453a118e92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../bai2/baitap/src/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/baitap/src/bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/baitap/src/bai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/thuchanh/src/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/thuchanh/src/bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/thuchanh/src/bai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/thuchanh/src/bai4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/baitap/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/baitap/src/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/baitap/src/bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/baitap/src/bai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/baitap/src/bai4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/baitap/src/bai5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/baitap/src/bai6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/baitap/src/bai7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/baitap/src/bai8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/baitap/src/bai9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/baitap/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/baitap/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/thuchanh/src/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/thuchanh/src/bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/thuchanh/src/bai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai3/thuchanh/src/bai4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai4/thuchanh/src/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai4/thuchanh/src/bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5/baitap/src/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5/baitap/src/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5/baitap/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5/baitap/src/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5/baitap/src/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5/baitap/src/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5/baitap/src/bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5/baitap/src/smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5/thuchanh/src/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5/thuchanh/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5/thuchanh/src/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5/thuchanh/src/bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5/thuchanh/src/bai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5/thuchanh/src/circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai6/baitap/src/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai6/baitap/src/bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai6/baitap/src/bai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai6/baitap/src/bai4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai6/thuchanh/src/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai7/baitap/src/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai7/thuchanh/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai7/thuchanh/src/bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai7/thuchanh/src/bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai7/thuchanh/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai7/thuchanh/src/testFan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/baitap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/out/production/baitap/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/out/production/baitap/bai1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/out/production/baitap/bai2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/out/production/baitap/bai3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/src/bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/src/bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/src/bai3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/bai1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/bai2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/bai3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/bai4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/bai5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/out/production/thuchanh/bai6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/src/bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/src/bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/src/bai3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/src/bai4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/src/bai5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/src/bai6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/thuchanh.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Nrs0Vu1Rhgaa1IzdXsWgiCC2TU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb9620dd-eacf-4fa0-b350-45453a118e92" name="Changes" comment="" />
+      <created>1680433314830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680433314830</updated>
+      <workItem from="1680433315964" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
